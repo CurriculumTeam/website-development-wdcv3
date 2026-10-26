@@ -1,4 +1,0 @@
-streamlit
-pillow
-python-dotenv
-huggingface_hub
