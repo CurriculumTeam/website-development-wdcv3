@@ -1,8 +1,0 @@
-streamlit
-groq
-huggingface_hub
-pillow
-python-dotenv
-requests
-numpy
-tensorflow==2.15.0
